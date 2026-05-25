@@ -36,7 +36,7 @@ También incluye:
 |  SCL | GPIO 5 |  A5 |
 
 
-### Divisor de tensión
+### Divisor de tensión para LDR
 
 ```text
 VCC
